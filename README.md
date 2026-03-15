@@ -36,7 +36,7 @@ A simple and robust To-Do list application built with Python and Flask. This app
     ```
 
 2.  **Access the App**:
-    Open your web browser and navigate to:
+    Open your web browser and navigate to.
     `http://127.0.0.1:5000`
 
 3.  **Get Started**:
